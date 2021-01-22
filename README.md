@@ -7,7 +7,7 @@ Data t were collected from Kaggle.com,the link is as follow:
 https://www.kaggle.com/c/rossmann-store-sales/data 
 (in which only the ‘train.csv‘was used.)
 ## GPAC
-![image](https://github.com/danleiQ/Mechanisms-of-Action-Classification/blob/master/Presentation/model%20diagram.jpg)
+![image](https://github.com/danleiQ/Rossmann-Store-Sales-Timeseries-Analysis/blob/main/GPAC.jpg)
 ## Summary
 |  Models| Mean of errors | Variance of errors | MSE | RMSE | MAPE |
 | ----- | ----- | ----- | ----- | ----- | ----- | 
