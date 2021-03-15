@@ -3,7 +3,7 @@
 - Perform Time Series Analysis (seasonal decomposition, trends, autocorrelation) on Sales Data.
 - Predict future sales with Holt-Winters, Multilinear Regression, ARMA models.
 ## Datasets
-Data t were collected from Kaggle.com,the link is as follow:
+Data were collected from Kaggle.com,the link is as follow:
 https://www.kaggle.com/c/rossmann-store-sales/data 
 (in which only the ‘train.csv‘was used.)
 ## GPAC
